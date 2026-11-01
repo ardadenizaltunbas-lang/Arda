@@ -1,0 +1,6 @@
+{
+  "name": "Lionel Messi - GOAT Biyografi & Başarılar",
+  "description": "Lionel Andrés Messi'nin interaktif biyografisi, kupa ve ödül hikayeleri, dinamik kariyer istatistikleri ve düzenlenebilir CMS paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
